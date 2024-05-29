@@ -1,4 +1,4 @@
-# Projet collectif Dataviz  
+# Projet collectif Chrome extension  
 ### Karina / Morgane / Stevany 
 
 -----------------------------------------------------------------
